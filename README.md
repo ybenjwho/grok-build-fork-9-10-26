@@ -140,3 +140,4 @@ Third-party and vendored code remains under its original licenses. See:
 - [`third_party/NOTICE`](third_party/NOTICE) — vendored Mermaid-stack index
 
 <!-- Test comment for the PR review skill. -->
+<!-- pr-2: smaller readme note -->
